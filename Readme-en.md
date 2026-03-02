@@ -1,11 +1,11 @@
 Based on html + tencent sdk development of m3u8 online player, to achieve mp4, m3u8/hls format video online playback
 
-[English version](https://github.com/geeeeeeeek/m3u8player/blob/main/README-en.md)
+[English version](https://github.com/mydaozun/m3u8player/blob/main/Readme-en.md)
 
 
 ## Preview
 
-https://m3u8player.org/en
+https://m3u8.mmaiverse.com/en
 
 
 ## Deployment steps
@@ -18,10 +18,6 @@ https://m3u8player.org/en
 
 
 
-## Reference
 
-- [m3u8player](https://m3u8player-cm4.pages.dev/)
-
-- [vercel-alpha](https://m3u8player-alpha.vercel.app/)
 
 
