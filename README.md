@@ -1,10 +1,10 @@
 基于html+腾讯sdk开发的m3u8在线播放器，实现mp4、m3u8/hls格式视频在线播放
 
-[English version](https://github.com/mydaozun/m3u8player/main/Readme-en.md)
+[English version](https://github.com/mydaozun/m3u8player/blob/main/Readme-en.md)
 
 ## 效果预览
 
-https://m3u8player.org
+https://m3u8.mmaiverse.com/
 
 ## 部署步骤
 
@@ -17,21 +17,5 @@ https://m3u8player.org
 
 
 访问入口是index.html
-
-## 视频教学
-
-https://youtu.be/zSuEPMbgaNU?si=bpg3kuY8tuOfrue7
-
-## 参考效果
-
-- [m3u8player](https://m3u8player-cm4.pages.dev/)
-
-- [vercel-alpha](https://m3u8player-alpha.vercel.app/)
-
-- [Reprodutor M3U8](https://m3u8player.org/pt/)
-
-- [m3u8 player online](https://m3u8player.org/en/)
-
-- [m3u8 to mp4](https://m3u8player.org/en/m3u8_to_mp4/)
   
   
